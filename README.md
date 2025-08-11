@@ -1,0 +1,1 @@
+This repo is for Ging-Yan Ho's capstone project on modeling leaf out phenology of individual trees in NYC. The initial version includes several species of oak trees but will be expanded to include models and predictions of the timing of leaf out for most common tree species in NYC. 
